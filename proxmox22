@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T03:00:45.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n4oU7sWOwt_NDBLYJ6DA" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T03:13:34.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2i4aZRw2AsLUMhpC7idh" version="20.3.6" type="github">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="983" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,13 +107,13 @@
         <mxCell id="e1GMPcu8-yw2ewvhgJPY-32" value="cept22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="37" y="461" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1GMPcu8-yw2ewvhgJPY-33" value="172.31.0.x/23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="305" width="60" height="30" as="geometry" />
+        <mxCell id="e1GMPcu8-yw2ewvhgJPY-33" value="172.--.0.x/23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="305" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1GMPcu8-yw2ewvhgJPY-34" value="1.254" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="149" y="227.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1GMPcu8-yw2ewvhgJPY-35" value="172.31.1.x (248 IP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e1GMPcu8-yw2ewvhgJPY-35" value="172.--.1.x (248 IP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="661" y="231.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1GMPcu8-yw2ewvhgJPY-36" value="Proxmox: https://pve22.ipv9.me" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
