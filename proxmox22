@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T04:31:29.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tFqVQ70E-wJba1o5ZlI8" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-02T05:52:10.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J_2d2jq4ixH4h5Bpw5QQ" version="20.6.0" type="github" pages="3">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1188" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -474,6 +474,12 @@
         </mxCell>
         <mxCell id="b9TX64XeC08SFPNeUPvh-32" value="Dual Stack IPv4/IPv6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=dashed;fontColor=#CC0066;" vertex="1" parent="1">
           <mxGeometry x="675" y="488" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jjb1O4jemnrPWl9OIc2K-1" value="172.31.0/23&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-size: 12px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;2001:470:&lt;/span&gt;&lt;b style=&quot;font-size: 12px; color: rgb(34, 34, 34); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;36&lt;/b&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-size: 12px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;:98::/64&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="880" y="301" width="129" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jjb1O4jemnrPWl9OIc2K-2" value="Proxmox Cluster&lt;br&gt;4 nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=dashed;fontColor=#CC0066;" vertex="1" parent="1">
+          <mxGeometry x="654.5" y="419" width="132" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
