@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T13:51:56.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EcsuxL4oejPanRi5Y9G9" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-05T13:52:43.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fdS50SRdo7APrr7k-4gF" version="20.6.0" type="github" pages="3">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="_fQvHgR6UDU_DK-_NIBR-11" vertex="1">
           <mxGeometry x="15" y="70" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_fQvHgR6UDU_DK-_NIBR-14" value="Container (CT) + Virtual Machine (vm)&lt;br&gt;DHCP offer &amp;amp; SLAAC only" style="text;html=1;strokeColor=#457B9D;fillColor=#A8DADC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#1D3557;fillStyle=solid;" parent="_fQvHgR6UDU_DK-_NIBR-11" vertex="1">
+        <mxCell id="_fQvHgR6UDU_DK-_NIBR-14" value="Container (CT) + Virtual Machine (vm)&lt;br&gt;DHCP offer &amp;amp; SLAAC only" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillStyle=solid;" parent="_fQvHgR6UDU_DK-_NIBR-11" vertex="1">
           <mxGeometry x="-152" y="16" width="290.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-16" value="" style="fontColor=#ffffff;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;rounded=1;" parent="1" vertex="1">
@@ -419,8 +419,8 @@
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-32" value="Pool:172.31.1.[0-246]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="813.5" y="395" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_fQvHgR6UDU_DK-_NIBR-33" value="JumpHost" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="616.5" y="355" width="65" height="52.5" as="geometry" />
+        <mxCell id="_fQvHgR6UDU_DK-_NIBR-33" value="JumpHost" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="616.5" y="347.5" width="65" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-34" value="" style="strokeColor=#457B9D;edgeStyle=none;rounded=1;endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.617;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;curved=1;" parent="1" source="_fQvHgR6UDU_DK-_NIBR-33" target="_fQvHgR6UDU_DK-_NIBR-17" edge="1">
           <mxGeometry relative="1" as="geometry">
