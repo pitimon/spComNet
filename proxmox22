@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T13:52:43.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fdS50SRdo7APrr7k-4gF" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-05T13:53:13.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IlaDSDIYMjtG_JyPuSA0" version="20.6.0" type="github" pages="3">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-37" value="update: Nov2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=15;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="886.5" y="620" width="131" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_fQvHgR6UDU_DK-_NIBR-38" value="Proxmox: https://pve22.ipv9.me" style="text;html=1;strokeColor=#457B9D;fillColor=#A8DADC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="_fQvHgR6UDU_DK-_NIBR-38" value="Proxmox: https://pve22.ipv9.me" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="354.5" y="477" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-39" value="NAT44&lt;br&gt;Routed6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#1D3557;" parent="1" vertex="1">
