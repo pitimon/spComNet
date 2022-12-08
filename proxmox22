@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T13:53:13.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IlaDSDIYMjtG_JyPuSA0" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-08T01:12:05.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gHgSrc-VnLgsd-ZZFjuL" version="20.6.0" type="github" pages="3">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -443,8 +443,8 @@
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-39" value="NAT44&lt;br&gt;Routed6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_fQvHgR6UDU_DK-_NIBR-41" value="" style="fontColor=#1D3557;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="90.5" y="179" width="60" height="41" as="geometry" />
+        <mxCell id="_fQvHgR6UDU_DK-_NIBR-41" value="Remote Client" style="fontColor=#1D3557;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="138" width="60" height="41" as="geometry" />
         </mxCell>
         <mxCell id="_fQvHgR6UDU_DK-_NIBR-42" value="" style="html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=1;fontColor=#1D3557;startArrow=none;entryX=0.946;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F1FAEE;curved=1;" parent="1" source="2kAWnFWijotEJ8l8t7-Q-3" target="_fQvHgR6UDU_DK-_NIBR-15" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -481,7 +481,7 @@
         <mxCell id="2kAWnFWijotEJ8l8t7-Q-4" value="&lt;font color=&quot;#0000ff&quot;&gt;ipv6 over ipv4 tunnel&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#E6D0DE;strokeColor=#457B9D;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientDirection=north;fontColor=#1D3557;perimeter=backbonePerimeter;backboneSize=20;fillStyle=solid;rotation=-45;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="240" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k8-bs3CDxThmVVV4uaCS-1" value="Grafana: https://pve22mon.ipv9.me" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="k8-bs3CDxThmVVV4uaCS-1" value="Grafana: https://pve22mon.ipv9.me" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="354.5" y="650" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
