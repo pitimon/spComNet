@@ -1,13 +1,13 @@
 # spComNet
-Special Problems in Computer Network: CPE-RMUTT
+- Special Problems in Computer Network: CPE-RMUTT
 
-- บันทึกงานกลุ่ม นศ. เทอม 2/2565
-นายธนัญกรณ์ มูลประถม	https://github.com/TanankornMoonprathom
-นางสาวกวินธิดา สาขำ	https://github.com/eiskawinnn
-นายธีรสุต จำปาเงิน	https://github.com/teerasut01
-นายพายุพัด สมพรสุขสวัสดิ์	https://github.com/ALEXANDERSSONN
-นายสรัล วรรณภูงา	https://github.com/centurynine
-นางสาวศรัณยา ทะลาสี	https://github.com/Pplxy
+# บันทึกงานกลุ่ม นศ. เทอม 2/2565
+- นายธนัญกรณ์ มูลประถม	https://github.com/TanankornMoonprathom
+- นางสาวกวินธิดา สาขำ	https://github.com/eiskawinnn
+- นายธีรสุต จำปาเงิน	https://github.com/teerasut01
+- นายพายุพัด สมพรสุขสวัสดิ์	https://github.com/ALEXANDERSSONN
+- นายสรัล วรรณภูงา	https://github.com/centurynine
+- นางสาวศรัณยา ทะลาสี	https://github.com/Pplxy
 นางสาวฉัตรพร แก้วเฉลิม	https://github.com/Pinchattaporn
 นางสาวกาญจนา หรั่งเจริญ	https://github.com/KanchanaRangcharoen
 นายนันทวัฒน เจริญราษฎร์	https://github.com/nantawatCharoenrat
