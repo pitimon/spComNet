@@ -34,3 +34,7 @@
 
 # คลิปประกอบกิจกรรมการเรียน
 - [Youtube](https://www.youtube.com/playlist?list=PLJz1XVERx6ACV-vTC6eG7HSMdBUR0dZId)
+
+# Lab Diagram
+- [draw.io](https://app.diagrams.net/#Hpitimon%2FspComNet%2Fmain%2Fproxmox22)
+
