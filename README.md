@@ -1,4 +1,4 @@
-# spComNet
+# Subject
 - Special Problems in Computer Network: CPE-RMUTT
 
 # บันทึกงาน
