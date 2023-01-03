@@ -40,3 +40,7 @@
 # Lab Diagram
 - [draw.io](https://app.diagrams.net/#Hpitimon%2FspComNet%2Fmain%2Fproxmox22)
 
+# Study at:
+- ภาควิชาวิศวกรรมคอมพิวเตอร์
+- คณะวิศวกรรมศาสตร์
+- มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี
