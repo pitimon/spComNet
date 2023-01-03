@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T06:05:38.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KWWEc7AoPiI3GlMAJpXo" version="20.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-03T06:28:44.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="O8hJ3MjlCssv-OXz3nD4" version="20.8.0" type="github" pages="4">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1434" dy="952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -647,6 +647,9 @@
             <mxGeometry x="60" y="730" width="210" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="1TPgy9840VYkW7eT_OA1-4" value="Expose local service to public" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=24;fontColor=#000000;" vertex="1" parent="GoPJ-aq1y1h9ahZ_nXqA-1">
+          <mxGeometry x="27" y="690" width="343" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
