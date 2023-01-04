@@ -9,7 +9,7 @@
 | นายธีรสุต จำปาเงิน         | [https://github.com/teerasut01](https://github.com/teerasut01)                     |
 | นายพายุพัด สมพรสุขสวัสดิ์  | [https://github.com/ALEXANDERSSONN](https://github.com/ALEXANDERSSONN)             |
 | นายสรัล วรรณภูงา           | [https://github.com/centurynine](https://github.com/centurynine)                   |
-| นางสาวศรัณยา ทะลาสี        | [https://github.com/Pplxy](https://github.com/Pplxy)                               |
+| นางสาวศรัณยา ทะลาสี        | [https://github.com/ploysry](https://github.com/ploysry)                               |
 | นางสาวฉัตรพร แก้วเฉลิม     | [https://github.com/Pinchattaporn](https://github.com/Pinchattaporn)               |
 | นางสาวกาญจนา หรั่งเจริญ    | [https://github.com/KanchanaRangcharoen](https://github.com/KanchanaRangcharoen)   |
 | นายนันทวัฒน เจริญราษฎร์    | [https://github.com/nantawatCharoenrat](https://github.com/nantawatCharoenrat)     |
@@ -23,7 +23,7 @@
 | นายเรืองฤทธิ์ จันทะมุด     | [https://github.com/Ruangrit-01](https://github.com/Ruangrit-01)                   |
 | นางสาวนุจิรา จำเริญ        | [https://github.com/DNujira](https://github.com/DNujira)                           |
 | นายธนวัฒน์ เอี่ยมละออ      | [https://github.com/thanawat1303](https://github.com/thanawat1303)                 |
-| นางสาวพิชญ์กัญ วงศ์ธนะเชษฐ | [https://github.com/pitkan](https://github.com/pitkan)                             |
+| นางสาวพิชญ์กัญ วงศ์ธนะเชษฐ | [https://github.com/pitkann](https://github.com/pitkann)                             |
 | นายศิวกร  กาญธนะบัตร       | [https://github.com/SiwakornEDZ](https://github.com/SiwakornEDZ)                   |
 | นางสาวคีตะภัทร  ภิบาล      | [https://github.com/keta410](https://github.com/keta410)                           |
 | นายกรกฤตย  ก๋ำนารายณ์      | [https://github.com/paowick](https://github.com/paowick)                           |
