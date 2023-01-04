@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T12:20:39.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HGlB1RfhWDa8F07xP154" version="20.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-04T12:20:54.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0E8ZlSGD7jcAjWBOFxkE" version="20.8.0" type="github" pages="4">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1434" dy="952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -227,12 +227,6 @@
             <mxPoint x="620" y="323" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b9TX64XeC08SFPNeUPvh-18" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;strokeWidth=2;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="583" as="sourcePoint" />
-            <mxPoint x="340" y="473" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b9TX64XeC08SFPNeUPvh-19" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;strokeWidth=2;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419.5" y="522" as="sourcePoint" />
@@ -249,24 +243,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="522" as="sourcePoint" />
             <mxPoint x="620" y="472" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b9TX64XeC08SFPNeUPvh-22" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;strokeWidth=2;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="583" as="sourcePoint" />
-            <mxPoint x="435" y="473" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b9TX64XeC08SFPNeUPvh-23" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;strokeWidth=2;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="635" y="583" as="sourcePoint" />
-            <mxPoint x="635" y="473" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b9TX64XeC08SFPNeUPvh-24" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;strokeWidth=2;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="583" as="sourcePoint" />
-            <mxPoint x="535" y="473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b9TX64XeC08SFPNeUPvh-26" value="vm &amp;amp; ct Internet NET &lt;br&gt;(Private IP)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
