@@ -3,8 +3,8 @@
 
 # บันทึกงาน
 | กลุ่ม นศ. เทอม 2/2565 |  |
-| -------------------------- | ---------------------------------------------------------------------------------- |
-| นายธนัญกรณ์ มูลประถม       | [https://github.com/TanankornMoonprathom](https://github.com/TanankornMoonprathom) |
+| -------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| นายธนัญกรณ์ มูลประถม       | [https://wakatime.com/spcn00](https://wakatime.com/spcn00)| [https://github.com/TanankornMoonprathom](https://github.com/TanankornMoonprathom) |
 | นางสาวกวินธิดา สาขำ        | [https://github.com/eiskawinnn](https://github.com/eiskawinnn)                     |
 | นายธีรสุต จำปาเงิน         | [https://github.com/teerasut01](https://github.com/teerasut01)                     |
 | นายพายุพัด สมพรสุขสวัสดิ์  | [https://github.com/ALEXANDERSSONN](https://github.com/ALEXANDERSSONN)             |
