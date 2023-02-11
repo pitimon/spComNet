@@ -2,37 +2,37 @@
 - Special Problems in Computer Network: CPE-RMUTT
 
 # บันทึกงาน
-| กลุ่ม นศ. เทอม 2/2565 |  |
-| -------------------------- | ---------------------------------------------------------------------------------- |
-| นายธนัญกรณ์ มูลประถม       | [https://github.com/TanankornMoonprathom](https://github.com/TanankornMoonprathom) |
-| นางสาวกวินธิดา สาขำ        | [https://github.com/eiskawinnn](https://github.com/eiskawinnn)                     |
-| นายธีรสุต จำปาเงิน         | [https://github.com/teerasut01](https://github.com/teerasut01)                     |
-| นายพายุพัด สมพรสุขสวัสดิ์  | [https://github.com/ALEXANDERSSONN](https://github.com/ALEXANDERSSONN)             |
-| นายสรัล วรรณภูงา           | [https://github.com/centurynine](https://github.com/centurynine)                   |
-| นางสาวศรัณยา ทะลาสี        | [https://github.com/ploysry](https://github.com/ploysry)                               |
-| นางสาวฉัตรพร แก้วเฉลิม     | [https://github.com/Pinchattaporn](https://github.com/Pinchattaporn)               |
-| นางสาวกาญจนา หรั่งเจริญ    | [https://github.com/KanchanaRangcharoen](https://github.com/KanchanaRangcharoen)   |
-| นายนันทวัฒน เจริญราษฎร์    | [https://github.com/nantawatCharoenrat](https://github.com/nantawatCharoenrat)     |
-| นายณัชพล สุพัฒสร           | [https://github.com/Hgot7](https://github.com/Hgot7)                               |
-| นายภัทรพล สมสกุล           | [https://github.com/pattaraponssky](https://github.com/pattaraponssky)             |
-| นายกันตพงษ์ กลิ่นเนียม     | [https://github.com/Kantapong11755](https://github.com/Kantapong11755)             |
-| นายกันต์ศักดิ์ ไชยมงคล     | [https://github.com/NightingX9](https://github.com/NightingX9)                     |
-| นายรพีพัฒน์ พรมฮวด         | [https://github.com/RPTitle2002](https://github.com/RPTitle2002)                   |
-| นายนาวิน ไชยเสนา           | [https://github.com/nawinNC](https://github.com/nawinNC)                           |
-| นางสาวณัฐติญา  มะจันลา     | [https://github.com/Nattiya18](https://github.com/Nattiya18)                       |
-| นายเรืองฤทธิ์ จันทะมุด     | [https://github.com/Ruangrit-01](https://github.com/Ruangrit-01)                   |
-| นางสาวนุจิรา จำเริญ        | [https://github.com/DNujira](https://github.com/DNujira)                           |
-| นายธนวัฒน์ เอี่ยมละออ      | [https://github.com/thanawat1303](https://github.com/thanawat1303)                 |
-| นางสาวพิชญ์กัญ วงศ์ธนะเชษฐ | [https://github.com/pitkann](https://github.com/pitkann)                             |
-| นายศิวกร  กาญธนะบัตร       | [https://github.com/SiwakornEDZ](https://github.com/SiwakornEDZ)                   |
-| นางสาวคีตะภัทร  ภิบาล      | [https://github.com/keta410](https://github.com/keta410)                           |
-| นายกรกฤตย  ก๋ำนารายณ์      | [https://github.com/paowick](https://github.com/paowick)                           |
-| นายจิรวัฒน์ พรสิริภากุล    | [https://github.com/Jirawat156](https://github.com/Jirawat156)                     |
-| นายกสิยพงศ์ หิรัญศรี       | [https://github.com/9ter](https://github.com/9ter)                                 |
-| นายบัณฑิต สงค์ประชา        | [https://github.com/Nestlae](https://github.com/Nestlae)                           |
-| นายพีรพัฒน์  สาริมาน       | [https://github.com/phisic1714](https://github.com/phisic1714)                     |
-| นายปิยะ หลามสกุล           | [https://github.com/topscrapperr](https://github.com/topscrapperr)                 |
-| นายพิสิษฐ์ กองแก้ว         | [https://github.com/pphisit](https://github.com/pphisit)                           |
+| กลุ่ม นศ. เทอม 2/2565    |                            |                                         |   |
+|------------------------|----------------------------|-----------------------------------------|---|
+| นายธนัญกรณ์ มูลประถม      | http://wakatime.com/spcn01 | https://github.com/TanankornMoonprathom |   |
+| นางสาวกวินธิดา สาขำ      | http://wakatime.com/spcn02 | https://github.com/eiskawinnn           |   |
+| นายธีรสุต จำปาเงิน        | http://wakatime.com/spcn03 | https://github.com/teerasut01           |   |
+| นายพายุพัด สมพรสุขสวัสดิ์    | http://wakatime.com/spcn04 | https://github.com/ALEXANDERSSONN       |   |
+| นายสรัล วรรณภูงา         | http://wakatime.com/spcn05 | https://github.com/centurynine          |   |
+| นางสาวศรัณยา ทะลาสี      | http://wakatime.com/spcn06 | https://github.com/ploysry              |   |
+| นางสาวฉัตรพร แก้วเฉลิม    | http://wakatime.com/spcn07 | https://github.com/Pinchattaporn        |   |
+| นางสาวกาญจนา หรั่งเจริญ   | http://wakatime.com/spcn08 | https://github.com/KanchanaRangcharoen  |   |
+| นายนันทวัฒน เจริญราษฎร์    | http://wakatime.com/spcn09 | https://github.com/nantawatCharoenrat   |   |
+| นายณัชพล สุพัฒสร          | http://wakatime.com/spcn10 | https://github.com/Hgot7                |   |
+| นายภัทรพล สมสกุล         | http://wakatime.com/spcn11 | https://github.com/pattaraponssky       |   |
+| นายกันตพงษ์ กลิ่นเนียม      | http://wakatime.com/spcn12 | https://github.com/Kantapong11755       |   |
+| นายกันต์ศักดิ์ ไชยมงคล      | http://wakatime.com/spcn13 | https://github.com/NightingX9           |   |
+| นายรพีพัฒน์ พรมฮวด        | http://wakatime.com/spcn14 | https://github.com/RPTitle2002          |   |
+| นายนาวิน ไชยเสนา        | http://wakatime.com/spcn15 | https://github.com/nawinNC              |   |
+| นางสาวณัฐติญา  มะจันลา    | http://wakatime.com/spcn16 | https://github.com/Nattiya18            |   |
+| นายเรืองฤทธิ์ จันทะมุด      | http://wakatime.com/spcn17 | https://github.com/Ruangrit-01          |   |
+| นางสาวนุจิรา จำเริญ       | http://wakatime.com/spcn18 | https://github.com/DNujira              |   |
+| นายธนวัฒน์ เอี่ยมละออ      | http://wakatime.com/spcn19 | https://github.com/thanawat1303         |   |
+| นางสาวพิชญ์กัญ วงศ์ธนะเชษฐ | http://wakatime.com/spcn20 | https://github.com/pitkann              |   |
+| นายศิวกร  กาญธนะบัตร     | http://wakatime.com/spcn21 | https://github.com/SiwakornEDZ          |   |
+| นางสาวคีตะภัทร  ภิบาล     | http://wakatime.com/spcn22 | https://github.com/keta410              |   |
+| นายกรกฤตย  ก๋ำนารายณ์    | http://wakatime.com/spcn23 | https://github.com/paowick              |   |
+| นายจิรวัฒน์ พรสิริภากุล      | http://wakatime.com/spcn24 | https://github.com/Jirawat156           |   |
+| นายกสิยพงศ์ หิรัญศรี        | http://wakatime.com/spcn25 | https://github.com/9ter                 |   |
+| นายบัณฑิต สงค์ประชา       | http://wakatime.com/spcn26 | https://github.com/Nestlae              |   |
+| นายพีรพัฒน์  สาริมาน       | http://wakatime.com/spcn27 | https://github.com/phisic1714           |   |
+| นายปิยะ หลามสกุล         | http://wakatime.com/spcn28 | https://github.com/topscrapperr         |   |
+| นายพิสิษฐ์ กองแก้ว         | http://wakatime.com/spcn29 | https://github.com/pphisit              |   |
 
 # คลิปประกอบกิจกรรมการเรียน
 - [Youtube](https://www.youtube.com/playlist?list=PLJz1XVERx6ACV-vTC6eG7HSMdBUR0dZId)
