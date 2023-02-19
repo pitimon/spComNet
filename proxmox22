@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T04:54:12.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="hNNOK8y-BudPej_8xaz7" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-19T05:12:33.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="qlQFZTTWBRWFkShthwD-" version="20.8.20" type="github" pages="5">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1195" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -715,7 +715,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fVDZRDUtJgJd-RZeM1mN-50" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;VM spec:&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Ubuntu 22.04&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- CPU 2 cores&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Ram 2 GB&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- HDD 32 GB&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="867" y="550" width="125" height="99" as="geometry" />
+          <mxGeometry x="1042" y="615" width="125" height="99" as="geometry" />
         </mxCell>
         <mxCell id="tEVD2pScvmi1u6dh-v0N-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1062" y="273" width="65" height="219" as="geometry" />
