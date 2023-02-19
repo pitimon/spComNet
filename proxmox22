@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T04:49:17.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="wTPBKaHz2YiH-O4lmgWj" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-19T04:54:12.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="hNNOK8y-BudPej_8xaz7" version="20.8.20" type="github" pages="5">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1195" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -808,7 +808,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tEVD2pScvmi1u6dh-v0N-13" value="Ingress" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;" vertex="1" parent="1">
+        <mxCell id="tEVD2pScvmi1u6dh-v0N-13" value="Ingress" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBackground=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="530" y="352" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tEVD2pScvmi1u6dh-v0N-14" value="revProxy" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBorder=default;imageBackground=#EA6B66;" vertex="1" parent="1">
@@ -841,6 +841,9 @@
             <mxPoint x="519" y="294" as="sourcePoint" />
             <mxPoint x="580" y="247" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tEVD2pScvmi1u6dh-v0N-25" value="overlay" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBackground=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="530" y="273" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
