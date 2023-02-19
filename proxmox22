@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T06:50:12.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="NHNEL3Z02faY9_LpyroM" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-19T23:29:52.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Ta4shsY_4l5hkYpyJbGv" version="20.8.20" type="github" pages="5">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1195" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -647,7 +647,7 @@
           <mxGeometry x="40" y="380" width="50" height="36" as="geometry" />
         </mxCell>
         <mxCell id="fVDZRDUtJgJd-RZeM1mN-10" value="swarmpit" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" parent="1" vertex="1">
-          <mxGeometry x="634" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="623" y="259" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fVDZRDUtJgJd-RZeM1mN-14" value="Dockerhub" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="1" vertex="1">
           <mxGeometry x="122" y="96" width="24" height="50" as="geometry" />
@@ -820,7 +820,7 @@
         <mxCell id="tEVD2pScvmi1u6dh-v0N-16" value="traefik_app" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
           <mxGeometry x="623" y="350" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tEVD2pScvmi1u6dh-v0N-17" value="Container" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
+        <mxCell id="tEVD2pScvmi1u6dh-v0N-17" value="swarmprom" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
           <mxGeometry x="727" y="167" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tEVD2pScvmi1u6dh-v0N-19" value="[80,443]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
