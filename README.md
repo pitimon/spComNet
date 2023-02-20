@@ -1,5 +1,6 @@
 # Subject
-- Special Problems in Computer Network: CPE-RMUTT
+- Special Problems in Computer Network: CPE-
+- ผู้สอน [ผศ.ดร.อิฐอารัญ ปิติมล](https://wakatime.com/@ipv9)
 
 # บันทึกงาน
 | กลุ่ม นศ. เทอม 2/2565    |                            |                                         |   |
