@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T00:12:40.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="lg9QLMqWbI1SFwb7el_B" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-26T00:13:08.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="y8Na_LKkUhnqHjuh32HN" version="20.8.20" type="github" pages="6">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1674" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -972,17 +972,6 @@
         </mxCell>
         <mxCell id="3z-AHWKVSuerNg6dGalp-63" value="youApp" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
           <mxGeometry x="573" y="157" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3z-AHWKVSuerNg6dGalp-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="75" y="390" as="sourcePoint" />
-            <mxPoint x="137" y="156" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3z-AHWKVSuerNg6dGalp-67" value="Image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3z-AHWKVSuerNg6dGalp-66">
-          <mxGeometry x="-0.4393" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3z-AHWKVSuerNg6dGalp-70" value="https://portainer.ipv9.me" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#d5e8d4;shape=mxgraph.mscae.enterprise.ad_fs" vertex="1" parent="1">
           <mxGeometry x="281" y="111" width="40" height="50" as="geometry" />
