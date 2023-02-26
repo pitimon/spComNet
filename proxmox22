@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T00:55:52.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="opDsNIUlekpgLWlrEI1t" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-26T00:56:19.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="wnjFuhcY_F34bFghyT6-" version="20.8.20" type="github" pages="6">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1674" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -846,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EcAk7xMRPAP11vgjT2xP" name="swarmDeploy">
-    <mxGraphModel dx="1729" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -895,7 +895,7 @@
             <mxPoint x="262.68" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3z-AHWKVSuerNg6dGalp-12" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+        <mxCell id="3z-AHWKVSuerNg6dGalp-12" value="" style="fontColor=#ffffff;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#e51400;strokeColor=#B20000;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
           <mxGeometry x="397" y="414" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3z-AHWKVSuerNg6dGalp-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3z-AHWKVSuerNg6dGalp-12" target="3z-AHWKVSuerNg6dGalp-7">
