@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T00:57:06.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="n1Elbmn6idfmOSrevEaF" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-26T00:59:15.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="UBr3Bx-Vzi5Z_limdsCq" version="20.8.20" type="github" pages="6">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1674" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -1020,6 +1020,9 @@
         </mxCell>
         <mxCell id="3z-AHWKVSuerNg6dGalp-81" value="https://portainer.ipv9.me" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="262" y="205" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3z-AHWKVSuerNg6dGalp-82" value="&lt;h1&gt;Tools:&lt;/h1&gt;&lt;div&gt;- vsCode&lt;/div&gt;&lt;div&gt;- wakatime extension&lt;/div&gt;&lt;div&gt;- docker engine&lt;/div&gt;&lt;div&gt;- GitHub, dockerhub id &amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11" y="587" width="172" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
