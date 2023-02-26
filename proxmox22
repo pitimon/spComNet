@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T00:17:34.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="A6qQ9v5cNj6edZS0q_nG" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-26T00:18:40.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="vc-6-uZUqVL4kRDJ0lkg" version="20.8.20" type="github" pages="6">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1674" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -909,17 +909,6 @@
         </mxCell>
         <mxCell id="3z-AHWKVSuerNg6dGalp-16" value="traefik" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
           <mxGeometry x="973" y="429" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3z-AHWKVSuerNg6dGalp-18" value="" style="shape=link;html=1;rounded=0;strokeColor=#00FF00;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="113" y="517" as="sourcePoint" />
-            <mxPoint x="297" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3z-AHWKVSuerNg6dGalp-19" value="VPN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3z-AHWKVSuerNg6dGalp-18">
-          <mxGeometry x="0.239" y="-1" relative="1" as="geometry">
-            <mxPoint x="-27" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3z-AHWKVSuerNg6dGalp-47" value="Ingress" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBackground=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="422" y="479" width="50" height="42" as="geometry" />
