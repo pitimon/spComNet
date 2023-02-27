@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:24:17.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="1H7Xw-z_VR13BBpT-J7n" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:25:07.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="c4PyJcy5K26kIE2LSdcY" version="20.8.23" type="github" pages="7">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1195" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -1044,7 +1044,7 @@
         <mxCell id="qGm0EFeqSNywi0AGcUpz-2" value="revProxy" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBorder=default;imageBackground=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="qGm0EFeqSNywi0AGcUpz-3" value="overlay" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBackground=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="qGm0EFeqSNywi0AGcUpz-3" value="ingress" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;imageBackground=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3RH2GcUpHJlItGnyeVua-3" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGm0EFeqSNywi0AGcUpz-9" target="qGm0EFeqSNywi0AGcUpz-1">
@@ -1096,7 +1096,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGm0EFeqSNywi0AGcUpz-22" value="default" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qGm0EFeqSNywi0AGcUpz-21">
+        <mxCell id="qGm0EFeqSNywi0AGcUpz-22" value="ingress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qGm0EFeqSNywi0AGcUpz-21">
           <mxGeometry x="-0.425" y="1" relative="1" as="geometry">
             <mxPoint x="7" as="offset" />
           </mxGeometry>
