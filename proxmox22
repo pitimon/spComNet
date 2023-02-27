@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:34:50.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="17YZiX-03ZXWjG2GCxew" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T15:22:34.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="HUMw3Ca4-DS_-IP4mvsQ" version="20.8.23" type="github" pages="7">
   <diagram id="qgDPG1GEiisBTaRK0Kp9" name="Page-1">
     <mxGraphModel dx="1195" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -1028,7 +1028,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NReyOGDfTUG8MH2Suml3" name="spcn-ep06">
-    <mxGraphModel dx="918" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1139,6 +1139,27 @@
             <mxGeometry x="345" y="711" width="557" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3RH2GcUpHJlItGnyeVua-15" value="User" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="154" y="271" width="52" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="3RH2GcUpHJlItGnyeVua-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="267" y="581" width="179" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="3RH2GcUpHJlItGnyeVua-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="3RH2GcUpHJlItGnyeVua-17">
+          <mxGeometry width="179" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="3RH2GcUpHJlItGnyeVua-12" value="Actor" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;dashed=1;dashPattern=12 12;" vertex="1" parent="3RH2GcUpHJlItGnyeVua-17">
+          <mxGeometry x="121" y="13" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3RH2GcUpHJlItGnyeVua-13" value="172.31.0.105" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;dashed=1;dashPattern=12 12;" vertex="1" parent="3RH2GcUpHJlItGnyeVua-17">
+          <mxGeometry x="36" y="16" width="59" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="3RH2GcUpHJlItGnyeVua-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="874" y="556" as="sourcePoint" />
+            <mxPoint x="220" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
