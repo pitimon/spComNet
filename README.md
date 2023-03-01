@@ -40,6 +40,11 @@
 
 # Lab Diagram
 - [draw.io](https://app.diagrams.net/#Hpitimon%2FspComNet%2Fmain%2Fproxmox22)
+- [Diagram-I](images/diagram-1.png)
+- [Diagram-II](images/diagram-2.png)
+- [Diagram-III](images/diagram-3.png)
+- [Diagram-IV](images/diagram-4.png)
+- [Diagram-V](images/diagram-5.png)
 
 # Studied at:
 - [ภาควิชาวิศวกรรมคอมพิวเตอร์](https://cpe.engineer.rmutt.ac.th/)
